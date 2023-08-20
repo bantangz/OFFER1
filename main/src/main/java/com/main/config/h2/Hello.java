@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("你好hotfix");
         System.out.println("success");
         System.out.println("我是github");
+        System.out.pringln("嘿嘿pull我啊");
     }
 }
