@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "ban.tang",
+      "type": "com.yyds.config.PersonUtilSDKConfig",
+      "sourceType": "com.yyds.config.PersonUtilSDKConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ban.tang.age",
+      "type": "java.lang.String",
+      "sourceType": "com.yyds.config.PersonUtilSDKConfig"
+    },
+    {
+      "name": "ban.tang.name",
+      "type": "java.lang.String",
+      "sourceType": "com.yyds.config.PersonUtilSDKConfig"
+    }
+  ],
+  "hints": []
+}
