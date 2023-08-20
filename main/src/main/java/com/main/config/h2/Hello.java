@@ -8,5 +8,6 @@ public class Hello {
         System.out.println("success");
         System.out.println("嘿嘿");
         System.out.println("我是github");
+        System.out.pringln("嘿嘿pull我啊");
     }
 }
